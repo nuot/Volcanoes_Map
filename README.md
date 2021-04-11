@@ -1,2 +1,2 @@
 # Volcanoes_Map
-Interactive Volcanoes and Population map created using Python with Control Panel
+Interactive Volcanoes and Population map with Control Panel created using Python 
